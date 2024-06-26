@@ -1,7 +1,7 @@
-domain-suffix,appsflayer.com
-domain-suffix,binance.cc
-domain-suffix,binance.charity
-domain-suffix,binance.cloud
+DOMAIN-SUFFIX,appsflayer.com
+DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,binance.charity
+DOMAIN-SUFFIX,binance.cloud
 domain-suffix,binance.co
 domain-suffix,binance.com
 domain-suffix,binance.info
